@@ -1,6 +1,6 @@
 ### City-Data.com Scrapper
 
-Scrappes USA States and Cities names from City-Data.com
+Scrapes USA States and Cities names from City-Data.com
 
 Example
 
